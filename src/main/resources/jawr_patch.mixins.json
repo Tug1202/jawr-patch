@@ -1,0 +1,8 @@
+{
+  "required": true,
+  "package": "io.github.tug1202.jawrpatch.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "WitcheryPlantRandomTickMixin"
+  ]
+}
